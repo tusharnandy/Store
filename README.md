@@ -1,2 +1,2 @@
 # Store
-A back-up repo to keep my new ideas in place
+A back-up repo to keep my ideas in place
